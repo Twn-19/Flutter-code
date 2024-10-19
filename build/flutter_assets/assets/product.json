@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Rose",
+    "imageUrl": "https://i.pinimg.com/564x/5e/52/8c/5e528cd860b76c018eee60984838c53c.jpg",
+    "price": "200 Baht/Stem"
+  },
+
+  {
+    "name": "Sun Flower",
+    "imageUrl": "",
+    "price": "150 Baht/Stem"
+  },
+
+  {
+    "name": "Tulip",
+    "imageUrl": "",
+    "price": "200 Baht/Stem"
+  },
+
+  {
+    "name": "Lily",
+    "imageUrl": "",
+    "price": "250 Baht/Stem"
+  },
+
+  {
+    "name": "Hydrangea",
+    "imageUrl": "",
+    "price": "400 Baht/Stem"
+  }
+]
